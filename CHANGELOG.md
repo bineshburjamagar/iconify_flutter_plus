@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Indentation fix
+
 ## 1.0.2
 
 - Added documentation
