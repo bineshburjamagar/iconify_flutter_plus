@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Added documentation
+
 ## 1.0.1
 
 - Solved svg picture depreciated file
