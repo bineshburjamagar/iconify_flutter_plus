@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Bug fix
+
 ## 1.0.3
 
 - Indentation fix

@@ -8,7 +8,7 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 <div align="center" style="margin-top:10px"> 
   
 [![likes](https://img.shields.io/pub/likes/iconify_flutter_plus?logo=dart)](https://pub.dev/packages/iconify_flutter_plus)
-[![GitHub stars](https://img.shields.io/github/stars/andronasef/iconify_flutter_plus.svg?style=flat&label=Star&maxAge=3600&logo=github&color=success)](https://github.com/bineshburjamagar/iconify_flutter_plus/)
+[![GitHub stars](https://img.shields.io/github/stars/bineshburjamagar/iconify_flutter_plus.svg?style=flat&label=Star&maxAge=3600&logo=github&color=success)](https://github.com/bineshburjamagar/iconify_flutter_plus/)
 [![HitCount](https://hits.dwyl.com/andronasef/iconify_flutter_plus.svg?style=flat)](https://pub.dev/packages/iconify_flutter_plus)
 
 </div>
@@ -83,6 +83,6 @@ Zondicons.iconsList // List of all icons of VS Code icon set
 ## Dreams 💭
 
 - [ ] Get first 100 stars on [github.com](https://github.com/bineshburjamagar/iconify_flutter_plus/)
-- [ ] Get Flutter Favourite Badge
+- [ ] Get Flutter Favorite Badge
 - [x] Get first 100 likes on [pub.dev](https://pub.dev/packages/iconify_flutter_plus/)
 - [x] Add colorful icons to iconify_flutter_plus
